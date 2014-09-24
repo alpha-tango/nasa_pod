@@ -17,3 +17,5 @@ sleep(0.5)
 `sh ./apod_set.sh #{filepath}`
 
 `rm apod_daily_image.jpg`
+
+`touch ~/c`
